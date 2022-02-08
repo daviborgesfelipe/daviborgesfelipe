@@ -2,7 +2,7 @@ Olá eu sou Davi Felipe Borges.
 
 - 🔭 Eu estou trabalhando em pesquenos projetos academicos e projetos de cursos voltado para desenvolvimento de sistemas.
 - 🌱 No momento estou aprendendo HTML5 e CSS3 no curso desenvolvedor front-end da B7Web, curso básico de lógica de programação e algoritmos com C#, e no quinto modulo e terceiro periodo do curso tecnologo em análise e desenvolvimento de sistemas na Univali.
-- 
+
 <div align="center">
   <a href="https://github.com/daviborgesfelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviborgesfelipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
