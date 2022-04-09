@@ -1,7 +1,7 @@
 Olá eu sou Davi Felipe Borges.
 
 - 🔭 Eu estou trabalhando em pesquenos projetos academicos e projetos de cursos voltado para desenvolvimento de sistemas.
-- 🌱 No momento estou aprendendo HTML5 e CSS3 no curso desenvolvedor front-end da B7Web, curso básico de lógica de programação e algoritmos com C#, e no quinto modulo e terceiro periodo do curso tecnologo em análise e desenvolvimento de sistemas na Univali.
+- 🌱 No momento estou aprendendo tecnologias voltadas para o desenvolvimento Front-end.
 
 <div align="center">
   <a href="https://github.com/daviborgesfelipe">
@@ -18,5 +18,5 @@ Olá eu sou Davi Felipe Borges.
  
 <div> 
   <a href="mailto:daviborgesfelipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davi-borges-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/davi-borges-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
