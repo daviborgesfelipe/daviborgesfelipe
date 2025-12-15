@@ -6,8 +6,7 @@
 - 🌞 Desenvolvedor de software focado em **projetos acadêmicos, cursos práticos e aplicações Web**, sempre buscando evoluir boas práticas e arquitetura.
 - 🌊 Atualmente aprimorando meus conhecimentos em **C# e TypeScript**, com foco em **.NET Core, ASP.NET e Angular**.
 - 🧠 Experiência com aplicações Web, APIs REST, integração com banco de dados e versionamento de código.
-- 🌴 Alguns projetos disponíveis em:  
-  👉 **https://portifolio-webapp.onrender.com/**
+- 🌴 Alguns projetos disponíveis em: 👉 **https://portifolio-webapp.onrender.com/**
 
 ---
 
